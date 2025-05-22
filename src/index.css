@@ -1,0 +1,17 @@
+.left-nav {
+  width: 72px !important;
+  max-width: 72px !important;
+}
+
+.left-nav a.nav-link {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.left-nav a span.me-3 {
+  margin-right: 0 !important;
+}
+
+
+
+
