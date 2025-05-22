@@ -30,8 +30,8 @@ A modern, responsive admin dashboard built with React, TypeScript, and React Boo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-dashboard.git
-   cd react-dashboard
+   git clone https://github.com/Spoidarman/React-Admin-Dashboard.git
+   cd React-Admin-Dashboard
    ```
 
 2. Install dependencies:
@@ -67,10 +67,6 @@ src/
 ```
 
 ## 🎨 Customization
-
-### Theming
-
-Edit the SCSS variables in `src/styles/_variables.scss` to customize colors:
 
 ```scss
 $primary: #4e73df;
